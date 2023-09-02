@@ -1,9 +1,7 @@
 # Hey! I'm [**@coderero**](http://github/coderero) **Mohit Sharma**
 
 - 🎓 I'm a **B.C.A.** student at **[Lovely Professional University](https://www.lpu.in/)**.
-- 🌱 I’m currently learning **Python**
-- 📝 I regulary write articles on **[Medium](https://medium.com/@coderero)**.
-- ⚡ Fun fact: I love to play **Games**.
+- 🌱 I’m currently learning **Go Lang**
 
 ## 🚀 Languages and Tools:
 
