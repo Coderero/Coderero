@@ -1,4 +1,4 @@
-# Hey! I'm [**@coderero**](http://github/coderero) **Ft. Mohit Sharma**
+# Hey! I'm [**@coderero**](http://github/coderero) **Mohit Sharma**
 
 - 🎓 I'm a **B.C.A.** student at **[Lovely Professional University](https://www.lpu.in/)**.
 - 🌱 I’m currently learning **Python**
@@ -20,6 +20,7 @@
 - **RDBMS**
 - **DBMS**
 - **CloudComputing**
+- **C/C++**
 
 ## 📫 How to reach me:
 
