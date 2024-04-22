@@ -23,6 +23,6 @@
 ## 📫 How to reach me:
 
 - **[Mohit Sharma <img align="center" alt="coderero | LinkedIn" width="22px" src="https://www.svgrepo.com/show/158420/linkedin.svg" />](https://www.linkedin.com/in/mohit-sharma-7503b2246/)**
-- **[@ig_sharkbeast <img align="center" alt="coderero | Instagram" width="22px" src="https://www.svgrepo.com/show/452229/instagram-1.svg" />](https://www.instagram.com/ig_sharkbeast/)**
+- **[@coderero.dev <img align="center" alt="coderero | Instagram" width="22px" src="https://www.svgrepo.com/show/452229/instagram-1.svg" />](https://www.instagram.com/coderero.dev/)**
 
 ## Thanks for visiting my profile. Have a great day! 👋
